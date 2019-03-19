@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/blogdown-example/"
 languageCode = "en-us"
 title = "Jenny's Blogdown Demo Site"
 theme = "hugo-academic"
