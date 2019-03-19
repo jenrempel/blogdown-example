@@ -19,6 +19,9 @@ publishDir = "docs"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/rstudio/blogdown"
+[[menu.main]]
+    name = "Testing"
+    url = "/testing/"
 
 
 [params]
